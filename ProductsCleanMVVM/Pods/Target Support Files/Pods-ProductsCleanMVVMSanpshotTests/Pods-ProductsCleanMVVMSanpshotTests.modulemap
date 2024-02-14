@@ -1,0 +1,6 @@
+framework module Pods_ProductsCleanMVVMSanpshotTests {
+  umbrella header "Pods-ProductsCleanMVVMSanpshotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

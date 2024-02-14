@@ -1,0 +1,2050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AEEAA0AF-2FEB-42F0-A58B-6EB938C04BEA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3CFB8E4-B7C7-41C0-996A-C3097E9E69DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F3CFB8E4-B7C7-41C0-996A-C3097E9E69DD - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "F3CFB8E4-B7C7-41C0-996A-C3097E9E69DD - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "F3CFB8E4-B7C7-41C0-996A-C3097E9E69DD - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F3CFB8E4-B7C7-41C0-996A-C3097E9E69DD - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "F3CFB8E4-B7C7-41C0-996A-C3097E9E69DD - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F3CFB8E4-B7C7-41C0-996A-C3097E9E69DD - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05F407B4-70F8-445A-892F-0F3C69257445"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05F407B4-70F8-445A-892F-0F3C69257445 - 309c18791377d364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "05F407B4-70F8-445A-892F-0F3C69257445 - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "05F407B4-70F8-445A-892F-0F3C69257445 - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "05F407B4-70F8-445A-892F-0F3C69257445 - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "05F407B4-70F8-445A-892F-0F3C69257445 - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "05F407B4-70F8-445A-892F-0F3C69257445 - 309c18791377d285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B5FC25D-97B7-4C92-BA8B-E12F6A531480"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B5FC25D-97B7-4C92-BA8B-E12F6A531480 - 1f965a914cd76a0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "5B5FC25D-97B7-4C92-BA8B-E12F6A531480 - 309c18791377d3bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "5B5FC25D-97B7-4C92-BA8B-E12F6A531480 - 64d55ede17774651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAEA8BB1-C847-4954-BE5C-70FAB235A896"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAEA8BB1-C847-4954-BE5C-70FAB235A896 - 309c18791377d2e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "FAEA8BB1-C847-4954-BE5C-70FAB235A896 - 309c18791377d2e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "FAEA8BB1-C847-4954-BE5C-70FAB235A896 - 309c18791377d2e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE5A113C-D7C8-4003-916E-CF8BB37B257E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE5A113C-D7C8-4003-916E-CF8BB37B257E - 64d55ede1777479b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "DE5A113C-D7C8-4003-916E-CF8BB37B257E - 309c18791377d22a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "DE5A113C-D7C8-4003-916E-CF8BB37B257E - 309c18791377d22a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EDAB8E9-3BE1-4F00-81BA-350886703D69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/View/ProductListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "bind(to:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1EDAB8E9-3BE1-4F00-81BA-350886703D69 - 260cafe27e926d05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.ProductListView.bind(to: ProductsCleanMVVM.ProductsListViewModelInput &amp; ProductsCleanMVVM.ProductsListViewModelOutput) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "1EDAB8E9-3BE1-4F00-81BA-350886703D69 - dc8fd2f0167aa8c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;ProductsCleanMVVM.ProductsListItemViewModel&gt;) -&gt; () in ProductsCleanMVVM.ProductListView.bind(to: ProductsCleanMVVM.ProductsListViewModelInput &amp; ProductsCleanMVVM.ProductsListViewModelOutput) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1EDAB8E9-3BE1-4F00-81BA-350886703D69 - dc8fd2f0167aa8c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;ProductsCleanMVVM.ProductsListItemViewModel&gt;) -&gt; () in ProductsCleanMVVM.ProductListView.bind(to: ProductsCleanMVVM.ProductsListViewModelInput &amp; ProductsCleanMVVM.ProductsListViewModelOutput) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "1EDAB8E9-3BE1-4F00-81BA-350886703D69 - 3c346f08eef79380"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.ProductListView.setupViews() -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "749139EF-2A13-4E30-93A6-47C2BC82BC76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "appendPage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "749139EF-2A13-4E30-93A6-47C2BC82BC76 - 5a35a1b5ce895b20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "749139EF-2A13-4E30-93A6-47C2BC82BC76 - 1a8f7e587ec2424a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (ProductsCleanMVVM.Product) -&gt; ProductsCleanMVVM.ProductsListItemViewModel in ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA02F608-1F9C-4631-8409-DAC90CFB0438"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA02F608-1F9C-4631-8409-DAC90CFB0438 - 1f965a914cd76aae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "AA02F608-1F9C-4631-8409-DAC90CFB0438 - 309c18791377d322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "AA02F608-1F9C-4631-8409-DAC90CFB0438 - 1f965a914cd76aae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "AA02F608-1F9C-4631-8409-DAC90CFB0438 - 309c18791377d343"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; () in ProductsCleanMVVM.DefaultProductsListViewModel.fetch(loading: Swift.Bool) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A38F7F0-74E1-40A3-B86A-6AFBE2ACC68D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19236E84-5046-4FAE-BFA5-7D1508359A0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "request(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19236E84-5046-4FAE-BFA5-7D1508359A0B - 3fd4f8c8454472dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "19236E84-5046-4FAE-BFA5-7D1508359A0B - f4c50ccc4b635e6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "19236E84-5046-4FAE-BFA5-7D1508359A0B - f4c50ccc4b635e0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E9DC35D-866E-4DA1-A21A-9369F838ADD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "request(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E9DC35D-866E-4DA1-A21A-9369F838ADD2 - 3fd4f8c8454472dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "9E9DC35D-866E-4DA1-A21A-9369F838ADD2 - 3fd4f8c84544717e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "9E9DC35D-866E-4DA1-A21A-9369F838ADD2 - 3fd4f8c845447141"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16A8D577-E013-4937-B31E-F9DC6764CC8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "request(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16A8D577-E013-4937-B31E-F9DC6764CC8E - 3fd4f8c8454472dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "16A8D577-E013-4937-B31E-F9DC6764CC8E - 3fd4f8c8454472bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "16A8D577-E013-4937-B31E-F9DC6764CC8E - f4c50ccc4b635e0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "16A8D577-E013-4937-B31E-F9DC6764CC8E - 3fd4f8c84544729f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "16A8D577-E013-4937-B31E-F9DC6764CC8E - f4c50ccc4b635e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVM.DefaultNetworkService.request(endpoint: ProductsCleanMVVM.Requestable) -&gt; Combine.Future&lt;Foundation.Data, ProductsCleanMVVM.NetworkError&gt;"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D077309A-0A9E-453F-BEE3-0EDABCE7DD88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D077309A-0A9E-453F-BEE3-0EDABCE7DD88 - ec3c2bb49db0ab6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "D077309A-0A9E-453F-BEE3-0EDABCE7DD88 - ec3c2bb49db0ab6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "D077309A-0A9E-453F-BEE3-0EDABCE7DD88 - 3449f7beac43f20a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDB49ABA-17DF-4AB3-A000-99C2598C33B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDB49ABA-17DF-4AB3-A000-99C2598C33B4 - 4143205dd3bdf023"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "FDB49ABA-17DF-4AB3-A000-99C2598C33B4 - ec3c2bb49db0a411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.Data) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "FDB49ABA-17DF-4AB3-A000-99C2598C33B4 - 4143205dd3bdf00c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "843D34F8-C96F-4088-80E7-A68691A89C47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "843D34F8-C96F-4088-80E7-A68691A89C47 - e50a1ed2fc00d891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  uuid = "843D34F8-C96F-4088-80E7-A68691A89C47 - 4143205dd3bdf088"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "843D34F8-C96F-4088-80E7-A68691A89C47 - e50a1ed2fc00d891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "843D34F8-C96F-4088-80E7-A68691A89C47 - e50a1ed2fc00d891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8ADBBCC-E6A2-4586-92C4-6CB9E5F1CD0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD0D6C65-1C48-47C7-8C3E-45BE92B96CED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6509EE6-D11D-4E04-8D55-9CC302BCB393"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/Mocks/NetworkSessionManagerMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "request(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6509EE6-D11D-4E04-8D55-9CC302BCB393 - 45211bb9826b6d5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;(Foundation.Data, __C.NSURLResponse), Swift.Error&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVMTests.NetworkSessionManagerMock.request(Foundation.URLRequest) -&gt; Combine.Future&lt;(Foundation.Data, __C.NSURLResponse), Swift.Error&gt;"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/Mocks/NetworkSessionManagerMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "C6509EE6-D11D-4E04-8D55-9CC302BCB393 - 45211bb9826b6d5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;(Foundation.Data, __C.NSURLResponse), Swift.Error&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVMTests.NetworkSessionManagerMock.request(Foundation.URLRequest) -&gt; Combine.Future&lt;(Foundation.Data, __C.NSURLResponse), Swift.Error&gt;"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/Mocks/NetworkSessionManagerMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "C6509EE6-D11D-4E04-8D55-9CC302BCB393 - b9dfa34db451ad68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;(Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;), Swift.Error&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVMTests.NetworkSessionManagerMock.request(Foundation.URLRequest) -&gt; Combine.Future&lt;(Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;), Swift.Error&gt;"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/Mocks/NetworkSessionManagerMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "C6509EE6-D11D-4E04-8D55-9CC302BCB393 - b9dfa34db451aac5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;(Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;), Swift.Error&gt;) -&gt; ()) -&gt; () in ProductsCleanMVVMTests.NetworkSessionManagerMock.request(Foundation.URLRequest) -&gt; Combine.Future&lt;(Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;), Swift.Error&gt;"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/Mocks/NetworkSessionManagerMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55A0CFD4-9061-4A80-B84F-7E5066383053"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55A0CFD4-9061-4A80-B84F-7E5066383053 - 7fe1d9cf5925a156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "55A0CFD4-9061-4A80-B84F-7E5066383053 - 7fe1d9cf5925a156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "55A0CFD4-9061-4A80-B84F-7E5066383053 - 7fe1d9cf5925a156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "55A0CFD4-9061-4A80-B84F-7E5066383053 - 7fe1d9cf5925a156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4501E637-93C5-4291-86C5-A7FBF75C5DFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4501E637-93C5-4291-86C5-A7FBF75C5DFA - 7fe1d9cf59259ee8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "4501E637-93C5-4291-86C5-A7FBF75C5DFA - 7fe1d9cf59259ee8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.NetworkError&gt;) -&gt; () in ProductsCleanMVVMTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB19D467-BBA2-49F3-B41E-03447669A24E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F694F39-A7F6-439E-B9DC-8BB873D59913"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F694F39-A7F6-439E-B9DC-8BB873D59913 - 6bb2a9ccc97ea087"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.NetworkServiceTests.test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "8F694F39-A7F6-439E-B9DC-8BB873D59913 - b985d8c4ce290d90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Error) -&gt; Swift.Bool in implicit closure #3 () throws -&gt; Swift.Bool in ProductsCleanMVVMTests.NetworkServiceTests.test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C15538A6-ED7A-413D-B17B-C9B686B3F550"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "199ACF36-08A1-4574-9379-56F9AB559715"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72BE190C-10ED-4B3E-8C69-09A9AF817389"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "test_whenReceivedValidJsonInResponse_shouldDecodeResponseToDecodableObject()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72BE190C-10ED-4B3E-8C69-09A9AF817389 - e11d28ce10d9deb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ProductsCleanMVVMTests.MockModel) -&gt; () in ProductsCleanMVVMTests.DataTransferServiceTests.test_whenReceivedValidJsonInResponse_shouldDecodeResponseToDecodableObject() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "72BE190C-10ED-4B3E-8C69-09A9AF817389 - e11d28ce10d9de91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ProductsCleanMVVMTests.MockModel) -&gt; () in ProductsCleanMVVMTests.DataTransferServiceTests.test_whenReceivedValidJsonInResponse_shouldDecodeResponseToDecodableObject() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D071F6FE-73EA-4163-BD63-644627D5DA5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "test_whenReceivedValidJsonInResponse_shouldDecodeResponseToDecodableObject()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F66BDD64-463D-4316-B6FF-CC3A874C3D4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "test_whenInvalidResponse_shouldNotDecodeObject()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17C0F5F4-2986-4CD1-A7F2-990A1405B9CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "test_whenInvalidResponse_shouldNotDecodeObject()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD5C0FAB-8D28-4E91-A58B-B11636B779EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "test_whenBadRequestReceived_shouldRethrowNetworkError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14543232-B946-47B7-ADB9-43B8D86CF34D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "test_whenBadRequestReceived_shouldRethrowNetworkError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33BA37E0-CD72-4268-835B-477A1B2AE447"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "test_whenBadRequestReceived_shouldRethrowNetworkError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33BA37E0-CD72-4268-835B-477A1B2AE447 - 840cf8bfbd973e86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.DataTransferError&gt;) -&gt; () in ProductsCleanMVVMTests.DataTransferServiceTests.test_whenBadRequestReceived_shouldRethrowNetworkError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "33BA37E0-CD72-4268-835B-477A1B2AE447 - 840cf8bfbd973e86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;ProductsCleanMVVM.DataTransferError&gt;) -&gt; () in ProductsCleanMVVMTests.DataTransferServiceTests.test_whenBadRequestReceived_shouldRethrowNetworkError() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Infrastrusture/Network/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B47BDB7F-5235-4A00-BE02-7AADC9FD441C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "appendPage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B47BDB7F-5235-4A00-BE02-7AADC9FD441C - 2ab2a8c8cc06abcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "B47BDB7F-5235-4A00-BE02-7AADC9FD441C - 2ab2a8c8cc06a8e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "B47BDB7F-5235-4A00-BE02-7AADC9FD441C - 2ab2a8c8cc06a8a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "B47BDB7F-5235-4A00-BE02-7AADC9FD441C - 2ab2a8c8cc06aba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A0049DC-62D8-4D65-9059-01EAEFFC87C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "appendPage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A0049DC-62D8-4D65-9059-01EAEFFC87C4 - 2ab2a8c8cc06a8a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "2A0049DC-62D8-4D65-9059-01EAEFFC87C4 - 2ab2a8c8cc06a883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "2A0049DC-62D8-4D65-9059-01EAEFFC87C4 - 2ab2a8c8cc06a883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "2A0049DC-62D8-4D65-9059-01EAEFFC87C4 - 2ab2a8c8cc06a998"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "2A0049DC-62D8-4D65-9059-01EAEFFC87C4 - 2ab2a8c8cc06a866"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "2A0049DC-62D8-4D65-9059-01EAEFFC87C4 - 2ab2a8c8cc06ab0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVM.DefaultProductsListViewModel.appendPage(ProductsCleanMVVM.ProductsPage) -&gt; ()"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA722163-CD08-430B-9850-3C24BF6AD042"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "test_whenSearchProductsUseCaseRetrievesEmptyPage_thenViewModelIsEmpty()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA722163-CD08-430B-9850-3C24BF6AD042 - 8b6bbba057b8fc95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "AA722163-CD08-430B-9850-3C24BF6AD042 - 8b6bbba057b8fee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "AA722163-CD08-430B-9850-3C24BF6AD042 - 8b6bbba057b8fee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "512F7567-92DA-40CC-87B3-A663291479B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "execute(requestValue:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "512F7567-92DA-40CC-87B3-A663291479B5 - ab5f0cec18e4fb90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.ProductsListUseCaseMock.execute(requestValue: ProductsCleanMVVM.ProductListUseCaseRequestValue) -&gt; Combine.Future&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "512F7567-92DA-40CC-87B3-A663291479B5 - 28d8a1bc72224b6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;) -&gt; ()) -&gt; () in implicit closure #1 () throws -&gt; Combine.Future&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt; in ProductsCleanMVVMTests.ProductListViewModelTests.ProductsListUseCaseMock.execute(requestValue: ProductsCleanMVVM.ProductListUseCaseRequestValue) -&gt; Combine.Future&lt;ProductsCleanMVVM.ProductsPage, Swift.Error&gt;"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A7C01ED-AD0E-40D8-86DE-B46EA89AEF7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "test_whenSearchProductsUseCaseRetrievesEmptyPage_thenViewModelIsEmpty()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A7C01ED-AD0E-40D8-86DE-B46EA89AEF7B - 8b6bbba057b8c1ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "9A7C01ED-AD0E-40D8-86DE-B46EA89AEF7B - 8b6bbba057b8c031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "9A7C01ED-AD0E-40D8-86DE-B46EA89AEF7B - 8b6bbba057b8c031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9949C92-E85E-4DED-9935-C7321BC16754"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "test_whenSearchProductsUseCaseRetrievesEmptyPage_thenViewModelIsEmpty()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9949C92-E85E-4DED-9935-C7321BC16754 - 8b6bbba057b8c18c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "F9949C92-E85E-4DED-9935-C7321BC16754 - 3742826c4ab707b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F9949C92-E85E-4DED-9935-C7321BC16754 - 9a3ce10cd94d5697"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (ProductsCleanMVVM.ProductsPage) -&gt; () in ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38705B5B-1926-4C67-B220-9779DB9F2BF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "test_whenSearchProductsUseCaseRetrievesEmptyPage_thenViewModelIsEmpty()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38705B5B-1926-4C67-B220-9779DB9F2BF4 - 8b6bbba057b8c18c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "38705B5B-1926-4C67-B220-9779DB9F2BF4 - 9a3ce10cd94d5651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (ProductsCleanMVVM.ProductsPage) -&gt; () in ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "38705B5B-1926-4C67-B220-9779DB9F2BF4 - 8b6bbba057b8c16b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMTests.ProductListViewModelTests.test_whenSearchMoviesUseCaseRetrievesEmptyPage_thenViewModelIsEmpty() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMTests/Presentation/ProductScene/ProductListViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

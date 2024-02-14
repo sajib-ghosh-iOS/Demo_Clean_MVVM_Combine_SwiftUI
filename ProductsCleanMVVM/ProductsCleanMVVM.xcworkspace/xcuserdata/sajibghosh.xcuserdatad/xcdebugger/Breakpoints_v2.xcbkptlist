@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3158ED7D-10D8-43F5-AC91-E5C42DC7CF99"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3724710B-F7F7-438D-B359-8413DA5061CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "testLaunch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3724710B-F7F7-438D-B359-8413DA5061CC - 4de90475da019245"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMSanpshotTests.ProductsCleanMVVMSanpshotTests.tearDownWithError() throws -&gt; ()"
+                  moduleName = "ProductsCleanMVVMSanpshotTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "3724710B-F7F7-438D-B359-8413DA5061CC - a684a7cf5595be9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMSanpshotTests.ProductsCleanMVVMSanpshotTests.testLaunch() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMSanpshotTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "3724710B-F7F7-438D-B359-8413DA5061CC - a684a7cf55958a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMSanpshotTests.ProductsCleanMVVMSanpshotTests.testLaunch() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMSanpshotTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "3724710B-F7F7-438D-B359-8413DA5061CC - a684a7cf55958a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMSanpshotTests.ProductsCleanMVVMSanpshotTests.testLaunch() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMSanpshotTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "3724710B-F7F7-438D-B359-8413DA5061CC - a684a7cf55958c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMSanpshotTests.ProductsCleanMVVMSanpshotTests.testLaunch() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMSanpshotTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BE08A0E-9B60-4AA1-A0DC-BAEB3A864954"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5BE08A0E-9B60-4AA1-A0DC-BAEB3A864954 - 1b7d2dbee288cf9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;ProductsCleanMVVM.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in ProductsCleanMVVM.ProductListView.body.getter : some"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "5BE08A0E-9B60-4AA1-A0DC-BAEB3A864954 - 8319951828a2a93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIActivityIndicatorView) -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;ProductsCleanMVVM.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in ProductsCleanMVVM.ProductListView.body.getter : some"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5BE08A0E-9B60-4AA1-A0DC-BAEB3A864954 - b9cbffc6a23064aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;ProductsCleanMVVM.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;)&gt; in ProductsCleanMVVM.ProductListView.body.getter : some"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "5BE08A0E-9B60-4AA1-A0DC-BAEB3A864954 - d5c119f898c0422b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIActivityIndicatorView) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;ProductsCleanMVVM.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;)&gt; in ProductsCleanMVVM.ProductListView.body.getter : some"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A292AE0-57A1-45CD-8093-83C1BD466F6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3A292AE0-57A1-45CD-8093-83C1BD466F6C - 1b7d2dbee288ccc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;ProductsCleanMVVM.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in ProductsCleanMVVM.ProductListView.body.getter : some"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "980">
+               </Location>
+               <Location
+                  uuid = "3A292AE0-57A1-45CD-8093-83C1BD466F6C - b9cbffc6a230676c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.navigationTitle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.StringProtocol&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;ProductsCleanMVVM.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(alignment: SwiftUI.Alignment, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;)&gt; in ProductsCleanMVVM.ProductListView.body.getter : some"
+                  moduleName = "ProductsCleanMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVM/Presentation/ProductScene/ProductsList/View/ProductListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85ED48BB-C36A-41AB-9D37-03F381E7A5B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "test_LaunchFor_ProductView_Success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85ED48BB-C36A-41AB-9D37-03F381E7A5B9 - 4752956bdc8fb0b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMSanpshotTests.ProductsCleanMVVMSanpshotTests.testLaunchForProductView() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMSanpshotTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "85ED48BB-C36A-41AB-9D37-03F381E7A5B9 - 4752956bdc8fb155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductsCleanMVVMSanpshotTests.ProductsCleanMVVMSanpshotTests.testLaunchForProductView() -&gt; ()"
+                  moduleName = "ProductsCleanMVVMSanpshotTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/Learning-iOS/ProductsCleanMVVM/ProductsCleanMVVM/ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DE4AC36-9801-4A94-95C0-905F5CF4F17D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductListViewModelWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FFCF923-42CD-41BD-AA0B-07CF500F4EF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductListViewModelWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init(viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8036FBE-FBFA-4BAA-95C2-99AF2F3D3FCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVMSanpshotTests/ProductsCleanMVVMSanpshotTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "productListVC"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89935AD6-D650-4BE2-85DF-FC469244463E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductsCleanMVVM/Presentation/ProductScene/ProductsList/ViewModel/ProductsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "fetch(loading:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

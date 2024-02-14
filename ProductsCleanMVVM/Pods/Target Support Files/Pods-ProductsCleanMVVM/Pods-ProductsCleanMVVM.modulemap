@@ -1,0 +1,6 @@
+framework module Pods_ProductsCleanMVVM {
+  umbrella header "Pods-ProductsCleanMVVM-umbrella.h"
+
+  export *
+  module * { export * }
+}
